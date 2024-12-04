@@ -1,2 +1,2 @@
 # computer-graphics-test
-How to make a new repo
+Това е тест на github.com
